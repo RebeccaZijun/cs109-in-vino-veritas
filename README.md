@@ -1,5 +1,5 @@
 # cs109_in_vino_veritas
-This served as homework for the [CS109 Data Science cource](http://cs109.org) and was represented as a [Jupyter Notebook](HW5.ipynb).
+This served as homework for the [CS109 Data Science cource](http://cs109.org) and is represented as a [Jupyter Notebook](HW5.ipynb).
 
 First: We'll examine the wine quality dataset hosted on the [UCI website](https://archive.ics.uci.edu/ml/datasets/Wine+Quality). This data records 11 chemical properties (such as the concentrations of sugar, citric acid, alcohol, pH etc.) of thousands of red and white wines from northern Portugal, as well as the quality of the wines, recorded on a scale from 1 to 10.
 
